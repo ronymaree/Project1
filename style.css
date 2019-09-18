@@ -2,3 +2,10 @@
     border : solid 1px #FF52C1;
     color : #FF52C1;
 }
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 100px;
+}
