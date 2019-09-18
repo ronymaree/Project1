@@ -22,8 +22,16 @@
     }
     
     .image1 {
-        width: 10% !important;
+        width: 40%;
         
+    }
+
+    .image2 {
+        margin-top: -165%;    
+    }
+
+    .list {
+        margin-top: 45%;    
     }
 }
 
@@ -51,22 +59,18 @@ h2{
 
 .image1 {
     width:100%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: block;    
     margin-bottom: 100px;    
-}
-
-.img {
-    position: relative;
 }
 
 .row {
     margin-left: 30px;
+    
 }
 
 .image2 {
     margin-left: 30px;
+<<<<<<< HEAD
 }
 
 .sectionFooter {
@@ -80,4 +84,7 @@ padding-bottom: 2em !important;
 .img-footer{
     width: 100%;
     background: url('../images/bg-footer-desktop.png')no-repeat center;
+=======
+    
+>>>>>>> 925f1bfa7a39c0b70246c5a20522ea92dd5c6014
 }
