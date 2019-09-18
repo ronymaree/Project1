@@ -22,7 +22,6 @@
     }
 }
 
-<<<<<<< HEAD
 .img2{
     background-attachment: src=;
 }
@@ -36,7 +35,8 @@ h2{
     font-size: 14px;
     font-weight: 400;
     color: #8E8F93;
-=======
+}
+
 .trynav2 {
     background-color: #FF52C1;
     color: white;
@@ -52,5 +52,4 @@ h2{
     margin-left: auto;
     margin-right: auto;
 
->>>>>>> a90c298c36fe99dc7b2ea5abcc4b26b1ed7d5b65
 }
