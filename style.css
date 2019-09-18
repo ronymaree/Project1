@@ -2,3 +2,10 @@
     border : solid 1px #FF52C1;
     color : #FF52C1;
 }
+
+.subTitle{
+    font-size: 16px;
+    color: #8E8F93;
+    width: 40%;
+    text-align: center;
+}
