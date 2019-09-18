@@ -1,2 +1,2 @@
-console.log("Shit");
+console.log('shit');
 var bunber = 5;
