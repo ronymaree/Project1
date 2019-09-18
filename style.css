@@ -15,3 +15,9 @@
     width: 40%;
     text-align: center;
 }
+
+@media (max-width: 768px) {
+    .subTitle{
+        width: 90%;
+    }
+}
