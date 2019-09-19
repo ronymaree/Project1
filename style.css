@@ -16,23 +16,25 @@
     text-align: center;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .subTitle{
         width: 90%;
     }
     
     .image1 {
-        width: 40%;
-        
+        width: 40%;        
     }
 
     .image2 {
-        margin-top: -165%;    
+        margin-top: -175%;    
     }
 
     .list {
         margin-top: 45%;    
     }
+}
+
+
 }
 
 h2{
