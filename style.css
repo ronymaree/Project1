@@ -76,9 +76,14 @@ padding-bottom: 2em !important;
 
 }
 
-.img-footer{
+.img-footer {
     width: 100%;
     background: url('../images/bg-footer-desktop.png')no-repeat center;
+}
+
+.waves {
+    background: url('/images/illustration-your-users.svg') no-repeat center bottom;
+
 }
 
 
